@@ -30,9 +30,10 @@ HR leaders now face the challenge of addressing workforce imbalances, enhancing 
 %[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/366f6c71173fd171ea1e9d598a5b212ee674e663/HRDB1.png)
 
 ### Dashboard 2
-%[image alt]
+%[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/fc9c9f9ab6af1126d5f900bfc94dc95f70a0b1a6/HRDB2.png)
 
 ### Dashboard 3
+%[image alt]
 
 ## Recommendations
 Implement Targeted Upskilling Programs
