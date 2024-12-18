@@ -26,7 +26,13 @@ Employees with longer tenures (e.g., 5 years and 1 year) form the largest cluste
 Meanwhile, 15.6% are very far away, which could influence retention and productivity.
 HR leaders now face the challenge of addressing workforce imbalances, enhancing promotion opportunities, and minimizing retrenchment impacts while retaining top talent.
 
+### Dashboard 1
+%[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/366f6c71173fd171ea1e9d598a5b212ee674e663/HRDB1.png)
+
+### Dashboard 2
 %[image alt]
+
+### Dashboard 3
 
 ## Recommendations
 Implement Targeted Upskilling Programs
