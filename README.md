@@ -4,7 +4,9 @@
 The HR department faces challenges in optimizing workforce management due to:
 
 1.A high number of employees nearing retrenchment (8%).
+
 2.Uneven promotion opportunities, particularly impacting critical job roles like Managers and Sales Executives.
+
 3.Disparities in employee tenure and satisfaction, which can influence retention, engagement, and productivity.
 
 ## Insights
