@@ -27,13 +27,13 @@ Meanwhile, 15.6% are very far away, which could influence retention and producti
 HR leaders now face the challenge of addressing workforce imbalances, enhancing promotion opportunities, and minimizing retrenchment impacts while retaining top talent.
 
 ### Dashboard 1
-%[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/366f6c71173fd171ea1e9d598a5b212ee674e663/HRDB1.png)
+![image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/366f6c71173fd171ea1e9d598a5b212ee674e663/HRDB1.png)
 
 ### Dashboard 2
-%[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/fc9c9f9ab6af1126d5f900bfc94dc95f70a0b1a6/HRDB2.png)
+![image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/fc9c9f9ab6af1126d5f900bfc94dc95f70a0b1a6/HRDB2.png)
 
 ### Dashboard 3
-%[image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/b431e269ac7d4c5c2b4483c3c1183256c80fee8f/HRDB3.png)
+![image alt](https://github.com/Richard-Nwachukwu/HR-Analysis-Power-BI/blob/b431e269ac7d4c5c2b4483c3c1183256c80fee8f/HRDB3.png)
 
 ## Recommendations
 Implement Targeted Upskilling Programs
